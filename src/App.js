@@ -16,7 +16,7 @@ class App extends Component {
 		);
 	}
 }
-
+///////////////////////////
 const mapStateToProps = state => {
 	return {
 		items: state.items
